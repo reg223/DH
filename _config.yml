@@ -23,10 +23,10 @@ email: kuangyi.hu@tufts.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! This is Sam's personal site for digital humanties
 
-#domain: "reg223.github.io"
+domain: "reg223.github.io"
 baseurl: "/DH" # the subpath of your site, e.g. /blog
-#url: "reg223.github.io"
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "reg223.github.io"
+#url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  reg223
 
